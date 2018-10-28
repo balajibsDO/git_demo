@@ -1,0 +1,218 @@
+    1  sudo fdisk -l
+    2  sudo apt-get install ntfs-3g
+    3  sudo ntfs-3g /dev/sda3 /media/windows
+    4  mkdir /media/windows
+    5  sudo mkdir /media/windows
+    6  ls
+    7  sudo ntfs-3g /dev/sda3 /media/windows
+    8  df -h
+    9  cd /media/windows
+   10  ls
+   11  exit
+   12  sudo snap vlc
+   13  sudo snap install vlc
+   14  exit
+   15  '/home/balaji/Downloads/mac4lin-1.0/Mac4Lin_Install_v1.0/Mac4Lin_Install_v1.0.sh' 
+   16  exit
+   17  df -h
+   18  \fdisk -l
+   19  fdisk -l
+   20  df -h
+   21  ssh help
+   22  ssh -help
+   23  ssh -i /home/balaji/documents ec2-user@18.224.94.17
+   24  ssh -i /home/balaji/documents/aws_26-518.pem ec2-user@18.224.94.17
+   25  su -
+   26  su root
+   27  su -
+   28  sudo ssh -i /home/balaji/documents/aws_26-518.pem ec2-user@18.224.94.17
+   29  sudo ssh -i /home/balaji/Documents/aws_26-518.pem ec2-user@18.224.94.17
+   30  sudo ssh -i Documents/aws_26-518.pem ec2-user@18.224.94.17
+   31  exit
+   32  sudo apt-get install kmplayer
+   33  exit
+   34  curl -O https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+   35  sudo apt install curl
+   36  curl -O https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+   37  sudo apt-get install curl
+   38  curl -O https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+   39  sudo apt-get install curl
+   40  curl -O https://repo.anaconda.com/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+   41  curl -v
+   42  sudo apt install curl
+   43  sudo apt install yum
+   44  wget -v
+   45  wget curl
+   46  sudo apt-get install curl
+   47  pip
+   48  sudo apt install python-pip
+   49  sudo apt install pip
+   50  service cural start
+   51  service curl start
+   52  curl -V
+   53  ngnix
+   54  sudo apt install ngnix
+   55  clear
+   56  sudo apt install ngnix
+   57  curl -V
+   58  sudo apt install pip
+   59  sudo apt-get install curl
+   60  curl -v
+   61  sudo service apache2 restart
+   62  ping google.com
+   63  ifconfig |less
+   64  /tmp/tmphnc620_opycharm-management/setuptools-39.1.0/setup.py install
+   65  sudo apt install python3-pip
+   66  exit
+   67  sudo apt installnet-tools
+   68  sudo apt install net-tools
+   69  sudo apt install nettools
+   70  ifconfig |less
+   71  sudo apt install  apache2 
+   72  java -v
+   73  sudo apt install default-jre 
+   74  sudo apt install openjdk-8-jre-headless 
+   75  sudo apt-get update
+   76  sudo apt inatall curl
+   77  sudo apt install curl
+   78  service curl start
+   79  sudo apt install apache2
+   80  service apache2 start
+   81  apache2
+   82  sudo apt install net-tools
+   83  which python
+   84  which python3
+   85  apt-get install vlc vlc-plugin-pulse mozilla-plugin-vlc
+   86  sudo apt-get install vlc vlc-plugin-pulse mozilla-plugin-vlc
+   87  sudo nano /etc/apt/sources.list.d/google-chrome.list
+   88  wget https://dl.google.com/linux/linux_signing_key.pub
+   89  sudo apt install google-chrome-stable
+   90  sudo apt-key add linux_signing_key.pub
+   91  sudo apt update
+   92  sudo apt install google-chrome-stable
+   93  exit
+   94  dconf write /org/gnome/desktop/interface/clock-show-date 'true'
+   95  sudo apt install gnome-tweak-tool
+   96  gsettings set org.gnome.desktop.interface clock-show-seconds true
+   97  which wget
+   98  $ wget http://xdman.sourceforge.net/xdman_mint_ubuntu.deb
+   99  ls
+  100  cd Dowloads
+  101  cd Downloads
+  102  ls
+  103  cd xdm-2018-x64/
+  104  ls
+  105  sudo ./install.sh
+  106  xdman
+  107  cd /
+  108  ls
+  109  cd usr
+  110  ls
+  111  cd..
+  112  cd /
+  113  cd home
+  114  ls
+  115  cd balaji/
+  116  ls
+  117  exit
+  118  service --status-all 
+  119  exit
+  120  sudo apt-get update
+  121  sudo apt-get install lubuntu-desktop
+  122  sudo lshw -c memory
+  123  sudo apt-get clean
+  124  sudo apt clean
+  125  which apt-get
+  126  sudo apt-get clean
+  127  df -h
+  128  java -V
+  129  jave -version
+  130  java -version
+  131  apt-get update && apt-get upgrade
+  132  sudo apt-get update && apt-get upgrade
+  133  sudo apt-get install default-jdk
+  134  java -version
+  135  exit
+  136  sudo apt clean
+  137  sudo apt update
+  138  apt list --upgradable
+  139  lubunutu
+  140  sudo apt-get --purge remove lubuntu-desktop
+  141  sudo apt clean
+  142  clear
+  143  ls
+  144  rm Mac4Lin_v1.0/
+  145  rm -d Mac4Lin_v1.0/
+  146  cd Mac4Lin_v1.0/
+  147  rm *
+  148  cd ..
+  149  ls
+  150  exit
+  151  WMIC CSPRODUCT GET NAME
+  152  sudo dmidecode |grep Version
+  153  sudo dmidecode -t 1
+  154  sudo dmidecode -t 1 > pcinfo.txt
+  155  cat pcinfo.txt 
+  156  sudo dmidecode -s system-product-name
+  157  ssh -i /home/balaji/Documents/aws_26-518.pem ec2-user@18.223.238.206
+  158  ssh -i aws_26-518.pem ec2-user@13.58.39.30
+  159  ssh -i aws_26-518.pem ec2-user@18.223.238.206
+  160  ls
+  161  ssh -i /home/balaji/Documents/aws_26-518.pem ec2-user@18.223.238.206
+  162  ssh -i \home\balaji\Documents\aws_26-518.pem ec2-user@18.223.238.206
+  163  ssh -i /home/balaji/Documents/aws_26-518.pem ec2-user@18.223.238.206
+  164  ll
+  165  cd Documents/
+  166  ls
+  167  ll
+  168  chmod 600 aws_26-518.pem 
+  169  ssh -i /home/balaji/Documents/aws_26-518.pem ec2-user@18.223.238.206
+  170  ssh -i /home/balaji/Documents/aws_26-518.pem ec2-user@13.58.39.30
+  171  apt:adobe-flashplugin
+  172  sudo snap install midori
+  173  git
+  174  sudo apt install git
+  175  git --version
+  176  git config-list
+  177  git config --list
+  178  git config --global user.name balajibsDO
+  179  git config --global user.email balajibs@gmail.com
+  180  git config --list
+  181  mkdir git_demo
+  182  cd git_demo
+  183  ls
+  184  git init
+  185  ls
+  186  git status
+  187  git log
+  188  vim helloworld.py
+  189  vi helloworld.py
+  190  ls
+  191  cd git_demo
+  192  sudo apt install vim
+  193  git add helloworld.py
+  194  git status
+  195  echo 'file1' > a.txt
+  196  echo 'file2' > b.txt
+  197  git add .
+  198  git status
+  199  git commit -m 'commiting my project data' 
+  200  ls
+  201  ll
+  202  git log
+  203  git log --oneline
+  204  git status
+  205  git add .
+  206  git status
+  207  history
+  208  history > log_27_10_18.txt
+  209  ls
+  210  git status
+  211  git reset HEAD helloworld.py
+  212  vim helloworld.py
+  213  git status
+  214  git checkout -b 'mygit_branch'
+  215  git status
+  216  ls
+  217  git branch
+  218  history > today_commands.txt
